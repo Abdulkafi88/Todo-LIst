@@ -1,0 +1,15 @@
+.con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: royalblue;
+    border-radius: 20px;
+}
+input{
+    outline: none;
+}
+h1{
+    color: white;
+}
+
